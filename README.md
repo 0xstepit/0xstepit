@@ -1,14 +1,16 @@
 ### Hi there 👋 I am stepit!
 
+I love math, code, and talking to people.
+
 ```shell
 - - - ----------|----------------------|----------------------|---------->
                t-2                    t-1                     t
                                                       working at Altiplanic
-                                                           on [Evmos](https://evmos.org/)
+                                                           on Evmos
       
                              smart contract engineer
-                               at [Kintsugi Tech](https://twitter.com/kintsugi_tech)
+                                at Kintsugi Tech
       
-  PhD in aerospace engineering 
-  at [Polimi](https://www.polimi.it/) (dropped out)
+   phd in aerospace engineering 
+     at Polimi (dropped out)
 ```
