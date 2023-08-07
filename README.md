@@ -1,5 +1,6 @@
 ### Hi there 👋 I am stepit!
 
+```shell
 - - - ----------|----------------------|----------------------|---------->
                t-2                    t-1                     t
                                                       working at Altiplanic
@@ -10,3 +11,4 @@
       
   PhD in aerospace engineering 
   at [Polimi](https://www.polimi.it/) (dropped out)
+```
