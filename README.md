@@ -2,8 +2,8 @@
 
 I love math, code, and talking to people.
 
-```shell
-- - - ----------|----------------------|----------------------|---------->
+```shell            
+- - - ----------|----------------------|----------------------|----------> T
                t-2                    t-1                     t
                                                       working at Altiplanic
                                                            on Evmos
@@ -11,6 +11,6 @@ I love math, code, and talking to people.
                              smart contract engineer
                                 at Kintsugi Tech
       
-   phd in aerospace engineering 
+   phd at aerospace engineering 
      at Polimi (dropped out)
 ```
