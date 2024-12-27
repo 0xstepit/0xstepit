@@ -1,14 +1,15 @@
 ### Hi there 👋 I am stepit!
 
-I love maths, code, and talking to people.
+I love math, code, and talking to people.
 
-```shell
+```md
 CV(t)
 
   ^
   |
-  |                                      working at Altiplanic
-  |                                            on Evmos
+  |
+  |                                      blockchain engineer
+  |                                         at Altiplanic
   |
   |                   smart contract engineer
   |                       at Kintsugi Tech
