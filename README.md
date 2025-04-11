@@ -8,6 +8,9 @@ CV(t)
   ^
   |
   |
+  |                                                      software engineer
+  |                                                           at Noble
+  |
   |                                      blockchain engineer
   |                                         at Altiplanic
   |
@@ -17,7 +20,7 @@ CV(t)
   |   phd in aerospace engineering 
   |     at Polimi (dropped out)
   |
-------------------|---------------|---------------|-------------->   T
-  |              t-2             t-1              t
+------------------|---------------|---------------|---------------|--------------->   T
+  |              t-3             t-2             t-1              t
 
 ```
